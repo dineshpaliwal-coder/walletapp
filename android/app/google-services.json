@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "681579344881",
+    "project_id": "djtech-f1513",
+    "storage_bucket": "djtech-f1513.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681579344881:android:2ec9106a9ba42841d6ca50",
+        "android_client_info": {
+          "package_name": "com.wallet.djwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "681579344881-gi5esrthggpoq13vctk8no5icj56cseq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wallet.djwallet",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "681579344881-8m9r42nhknsh3tmlpchmi9mgfqnmgpf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5FNBElwuvfBbXo5bGdtm9iY5VHm309WI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "681579344881-8m9r42nhknsh3tmlpchmi9mgfqnmgpf6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "681579344881-9ou7jmomhquqpf982h2ukto50j9ev96r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.finwalletdj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
